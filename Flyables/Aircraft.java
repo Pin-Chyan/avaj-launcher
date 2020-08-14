@@ -1,18 +1,16 @@
-package Flyables;
+package flyables;
 
 public class Aircraft {
-	long id;
+	protected long id;
 	protected String name;
-	//Coordinates = coordinates;
-	//private static long idCounter;
+	protected Coords coords;
+	//private static long idCounter = 0L;
 
-	Aircraft(String name) {
+	Aircraft(String name, Coords coords) {
 		this.name = name;
+		this.coords = coords;
 		//System.out.println(this.name);
 	}
 
-	public static void main(String[] args) {
-		Aircraft plane = new Aircraft("test");
-		System.out.println(plane.name);
-	}
+
 }
