@@ -1,6 +1,6 @@
 package weather;
 
-import flyables.Coords;
+//import flyables.Coords;
 
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -15,13 +15,24 @@ public class WeatherProvider {
 		return WeatherProvider.weatherProvider;
 	}
 
-	public static void getCurrentWeather() { // Coors coords fucking variables intakes done
+
+	// void
+	//public static void getCurrentWeather() { // Coors coords fucking variables intakes done
+	//	int random;
+	//	random = ThreadLocalRandom.current().nextInt(0, 3 + 1);
+	//	System.out.println(weather[random]);
+	//	//return weather[random];
+	//}
+
+	//testing for heli
+	public static String getCurrentWeather() { // Coors coords fucking variables intakes done
 		int random;
 		random = ThreadLocalRandom.current().nextInt(0, 3 + 1);
-		System.out.println(weather[random]);
+		//System.out.println(weather[random]);
+		return weather[random];
 	}
 
-	public static void main(String[] args) {
-		getCurrentWeather();
-	}
+	//public static void main(String[] args) {
+	//	getCurrentWeather();
+	//}
 }

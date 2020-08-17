@@ -9,9 +9,9 @@ public class Coords {
 		setLongitude(longitude);
 		setLatitude(latitude);
 		setHeight(height);
-		System.out.println(this.longitude);
-		System.out.println(this.latitude);
-		System.out.println(this.height);
+		//System.out.println(this.longitude);
+		//System.out.println(this.latitude);
+		//System.out.println(this.height);
 	}
 
 	public void setLongitude(int longitude) {
