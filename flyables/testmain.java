@@ -13,9 +13,11 @@ public class testmain {
 		//int hei = mycoords.getHeight();
 		//System.out.println("Longitude: " + longi + " Latitude: " + lati + " " + hei);
 		Helicopter heli = new Helicopter("heli", mycoords);
+		Baloon ball = new Baloon("baloon", mycoords);
 		System.out.println(heli.name);
 		//System.out.println(WeatherTower.getWeather());
 		//System.out.println(WeatherProvider.getCurrentWeather(mycoords));
 		heli.updateConditions();
+		ball.updateConditions();
 	}
 }

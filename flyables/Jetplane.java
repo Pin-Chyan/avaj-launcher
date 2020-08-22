@@ -3,7 +3,7 @@ package flyables;
 import weather.*;
 
 public class Jetplane extends Aircraft implements Flyable {
-	private WeatherTower subWeatherTower;
+	private WeatherTower subWeatherTower = new WeatherTower();
 
 	Jetplane(String name,Coords coords) {
 		super(name, coords); // Parenting of Aircraft
