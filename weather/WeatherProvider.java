@@ -2,7 +2,9 @@ package weather;
 
 //import flyables.Coords;
 
-import java.util.concurrent.ThreadLocalRandom;
+//import java.util.concurrent.ThreadLocalRandom;
+
+import flyables.Coords;
 
 public class WeatherProvider {
 	private static WeatherProvider weatherProvider = new WeatherProvider();
@@ -11,28 +13,28 @@ public class WeatherProvider {
 	private WeatherProvider() {
 	}
 
-	public static WeatherProvider getProvider() { //fucking returning value
-		return WeatherProvider.weatherProvider;
+	public static WeatherProvider getProvider() {
+		return weatherProvider;
 	}
-
-
-	// void
-	//public static void getCurrentWeather() { // Coors coords fucking variables intakes done
-	//	int random;
-	//	random = ThreadLocalRandom.current().nextInt(0, 3 + 1);
-	//	System.out.println(weather[random]);
-	//	//return weather[random];
-	//}
 
 	//testing for heli
-	public static String getCurrentWeather() { // Coors coords fucking variables intakes done
-		int random;
-		random = ThreadLocalRandom.current().nextInt(0, 3 + 1);
-		//System.out.println(weather[random]);
-		return weather[random];
+	public static String getCurrentWeather(Coords coords) { // Weather gen
+
+		int low = 1;
+		int high = 5;
+		int con = 0;
+		while (coords.getHeight() <= 100) {
+			if (con == 3) {
+				con = 0;
+			}
+			if (coords.getHeight() >= low && coords.getHeight() <= high) {
+				return weather[con];
+			}
+			low = low + 5;
+			high = high + 5;
+			con++;
+		}
+		return weather[0];
 	}
 
-	//public static void main(String[] args) {
-	//	getCurrentWeather();
-	//}
 }

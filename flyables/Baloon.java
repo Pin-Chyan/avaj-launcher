@@ -3,25 +3,37 @@ package flyables;
 import weather.*;
 
 public class Baloon extends Aircraft {
+	private WeatherTower subWeatherTower;
+
 	Baloon(final String name, final Coords coords) {
 		super(name, coords); // Parenting of Aircraft
 	}
 
 	public void updateConditions() {
-		String weather = (WeatherProvider.getCurrentWeather());
+		String weather = subWeatherTower.getWeather(this.coords);
+		Coords craft = Baloon.this.coords;
 		switch(weather) {
 			case "RAIN":
-				System.out.println("Heavy Storms Ahead");
+				Baloon.this.coords.setHeight(craft.getHeight() - 5);
+				System.out.println("Baloon#" + name + "(" + Baloon.this.id + ")" +  ": Rain forecast protect thy fire as soon as possible.");
 				break;
 			case "FOG":
-				System.out.println("FOG YOU SHALL NOT PASS");
+				Baloon.this.coords.setHeight(craft.getHeight() - 3);
+				System.out.println("Baloon#" + name + "(" + Baloon.this.id + ")" +  ": Fog forecast you may not have the full experience of the trip/tour.");
 				break;
 			case "SUN":
-				System.out.println("FEEL THE BURN");
+				Baloon.this.coords.setLongitude(craft.getLongitude() + 2);
+				Baloon.this.coords.setHeight(craft.getHeight() + 4);
+				System.out.println("Baloon#" + name + "(" + Baloon.this.id + ")" +  ": Sunny Day enjoy the fantastic view while you can.");
 				break;
 			case "SNOW":
-				System.out.println("ITS SNOWING");
+				Baloon.this.coords.setHeight(craft.getHeight() - 15);
+				System.out.println("Baloon#" + name + "(" + Baloon.this.id + ")" +  ": Snow forecast stay close to the fire to keep warmth.");
 				break;
 		}
+	}
+
+	public void registerTower(WeatherTower weatherTower) {
+		this.subWeatherTower = weatherTower;
 	}
 }

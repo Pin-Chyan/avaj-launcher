@@ -3,26 +3,38 @@ package flyables;
 import weather.*;
 
 public class Helicopter extends Aircraft {
+	private WeatherTower subWeatherTower;
+
 	Helicopter(final String name, final Coords coords) {
 		super(name, coords); // Parenting of Aircraft
 	}
 
 	public void updateConditions() {
-		//Helicopter heli = new Helicopter("heli", mycoords);
-		String weather = (WeatherProvider.getCurrentWeather());
+		String weather = subWeatherTower.getWeather(this.coords);
+		System.out.println("here");
+		Coords craft = Helicopter.this.coords;
 		switch(weather) {
 			case "RAIN":
-				System.out.println("Heavy Storms Ahead");
+				Helicopter.this.coords.setLongitude(craft.getLongitude() + 5);
+				System.out.println("Helicopter#" + name + "(" + Helicopter.this.id + ")" +  ": Rain detected nothing to be wary about.");
 				break;
 			case "FOG":
-				System.out.println("FOG YOU SHALL NOT PASS");
+				Helicopter.this.coords.setLongitude(craft.getLongitude() + 1);
+				System.out.println("Helicopter#" + name + "(" + Helicopter.this.id + ")" +  ": Fog detected beware of surroundings.");
 				break;
 			case "SUN":
-				System.out.println("FEEL THE BURN");
+				Helicopter.this.coords.setLongitude(craft.getLongitude() + 10);
+				Helicopter.this.coords.setHeight(craft.getHeight() + 2);
+				System.out.println("Helicopter#" + name + "(" + Helicopter.this.id + ")" + ": Sun Shine time to search for some new islands.");
 				break;
 			case "SNOW":
-				System.out.println("ITS SNOWING");
+				Helicopter.this.coords.setLatitude(craft.getHeight() - 12);
+				System.out.println("Helicopter#" + name + "(" + Helicopter.this.id + ")" +  ": Snow Storm around the area a.k.a blizzard.");
 				break;
 		}
+	}
+
+	public void registerTower(WeatherTower weatherTower) {
+		this.subWeatherTower = weatherTower;
 	}
 }

@@ -18,5 +18,4 @@ public class Aircraft {
 		return ++idCounter;
 	}
 
-
 }
