@@ -1,6 +1,6 @@
 package flyables;
 
-import weather.*;
+//import weather.*;
 
 public class testmain {
 	public static void main(String[] args) {
@@ -12,9 +12,10 @@ public class testmain {
 		//int lati = mycoords.getLatitude();
 		//int hei = mycoords.getHeight();
 		//System.out.println("Longitude: " + longi + " Latitude: " + lati + " " + hei);
-		//Helicopter heli = new Helicopter("heli", mycoords);
-		//System.out.println(heli.name);
-		System.out.println(WeatherProvider.getCurrentWeather(mycoords));
-		//heli.updateConditions();
+		Helicopter heli = new Helicopter("heli", mycoords);
+		System.out.println(heli.name);
+		//System.out.println(WeatherTower.getWeather());
+		//System.out.println(WeatherProvider.getCurrentWeather(mycoords));
+		heli.updateConditions();
 	}
 }

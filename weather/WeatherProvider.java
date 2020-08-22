@@ -7,18 +7,21 @@ package weather;
 import flyables.Coords;
 
 public class WeatherProvider {
-	private static WeatherProvider weatherProvider = new WeatherProvider();
+	private static WeatherProvider weatherProvider = null;
 	private static String[] weather = {"RAIN", "FOG" , "SUN", "SNOW"};
 
 	private WeatherProvider() {
 	}
 
 	public static WeatherProvider getProvider() {
+		if (weatherProvider == null) {
+			weatherProvider = new WeatherProvider();
+		}
 		return weatherProvider;
 	}
 
 	//testing for heli
-	public static String getCurrentWeather(Coords coords) { // Weather gen
+	public String getCurrentWeather(Coords coords) { // Weather gen
 
 		int low = 1;
 		int high = 5;

@@ -2,15 +2,15 @@ package flyables;
 
 import weather.*;
 
-public class Jetplane extends Aircraft {
+public class Jetplane extends Aircraft implements Flyable {
 	private WeatherTower subWeatherTower;
 
-	Jetplane(final String name, final Coords coords) {
+	Jetplane(String name,Coords coords) {
 		super(name, coords); // Parenting of Aircraft
 	}
 
 	public void updateConditions() {
-		final String weather = subWeatherTower.getWeather(this.coords);
+		String weather = subWeatherTower.getWeather(this.coords);
 		Coords craft = Jetplane.this.coords;
 		switch(weather) {
 			case "RAIN":

@@ -2,10 +2,10 @@ package flyables;
 
 import weather.*;
 
-public class Baloon extends Aircraft {
+public class Baloon extends Aircraft implements Flyable {
 	private WeatherTower subWeatherTower;
 
-	Baloon(final String name, final Coords coords) {
+	Baloon(String name, Coords coords) {
 		super(name, coords); // Parenting of Aircraft
 	}
 
