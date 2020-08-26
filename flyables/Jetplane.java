@@ -31,8 +31,15 @@ public class Jetplane extends Aircraft implements Flyable {
 				System.out.println("JetPlane#" + name + "(" + Jetplane.this.id + ")" +  ": Snowfall ahead beware of blizzards around the area.");
 				break;
 		}
+		if (this.coords.getHeight() <= 0) {
+			System.out.println("JetPlane#" + name + "(" + Jetplane.this.id + ")" +  ": Is now Landed.");
+			this.subWeatherTower.unregister(this);
+			System.out.println("Tower says: JetPlane#" + name + "(" + Jetplane.this.id + ")" + " unregistered to weather tower.");
+		}
 	}
 	public void registerTower(WeatherTower weatherTower) {
 		this.subWeatherTower = weatherTower;
+		System.out.println("Tower says: JetPlane#" + name + "(" + Jetplane.this.id + ")" + " registered to weather tower.");
+		this.subWeatherTower.register(this);
 	}
 }
