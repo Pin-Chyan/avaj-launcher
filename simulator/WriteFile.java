@@ -17,7 +17,7 @@ public class WriteFile {
 			if (file.createNewFile()) {
 				System.out.println("File created: " + file.getName());
 			} else {
-				  System.out.println("File already exists.");
+				System.out.println("File already exists.");
 			}
 		} catch (IOException e) {
 			System.out.println("An error occurred.");
@@ -43,7 +43,7 @@ public class WriteFile {
 		try {
 			buffWrite.write(str);
 			buffWrite.newLine();
-			System.out.println("Successfully wrote to the file.");
+			//System.out.println("Successfully wrote to the file.");
 	  	} catch (IOException e) {
 			System.out.println("An error occurred.");
 			e.printStackTrace();
@@ -53,18 +53,11 @@ public class WriteFile {
 	public static void writeS() {
 		try {
 			buffWrite.close();
-			System.out.println("Successfully close.");
+			//System.out.println("Successfully close.");
 	  	} catch (IOException e) {
 			System.out.println("An error occurred.");
 			e.printStackTrace();
 		  	}
 		}
 
-	public static void main(String[] args) {
-		fileCreate();
-		getFile();
-		WriteFile.writeF("Hello");
-		WriteFile.writeF("Hello");
-		writeS();
-	  }
 }
