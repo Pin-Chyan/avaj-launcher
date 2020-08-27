@@ -1,15 +1,14 @@
-package simulator;
-
 import java.io.FileReader;
 import java.io.BufferedReader;
 import java.util.List;
 
 import flyables.*;
 import weather.*;
+import simulator.*;
 
 import java.util.ArrayList;
 
-public class Reader {
+public class Avaj {
 	private static WeatherTower subWeatherTower = new WeatherTower();
 	private static List<Flyable> flyables = new ArrayList<Flyable>();
 	
@@ -34,7 +33,7 @@ public class Reader {
 	public static void main(final String[] args) {
 		WriteFile.fileCreate();
 		WriteFile.getFile();
-		String filename = "scenario_1.txt";
+		String filename = args[0];
 		List<String> str = readFile(filename);
 		Boolean valid = Validator.valInput(str);
 		if (valid == true) {

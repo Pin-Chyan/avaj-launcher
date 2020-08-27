@@ -1,303 +1,234 @@
 Tower says: Baloon#B1(1) registered to weather tower.
-Tower says: JetPlane#J1(2) registered to weather tower.
-Tower says: Helicopter#H1(3) registered to weather tower.
-Baloon#B1(1): Fog forecast you may not have the full experience of the trip/tour.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Fog forecast you may not have the full experience of the trip/tour.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Fog forecast you may not have the full experience of the trip/tour.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Sun Shine time to search for some new islands.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
+Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
+Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Rain forecast protect thy fire as soon as possible.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
 Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Sunny Day enjoy the fantastic view while you can.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
-Baloon#B1(1): Rain forecast protect thy fire as soon as possible.
-JetPlane#J1(2): Fog appearing ahead keep safe distances between other planes if spotted.
-Helicopter#H1(3): Fog detected beware of surroundings.
+Baloon#B2(2): Sunny Day enjoy the fantastic view while you can.
+JetPlane#J1(3): Heavy rain ahead beware of engine flameout.
+Helicopter#H1(4): Rain detected nothing to be wary about.
+Helicopter#H2(5): Rain detected nothing to be wary about.
+Helicopter#H3(6): Fog detected beware of surroundings.
+Baloon#B3(7): Rain forecast protect thy fire as soon as possible.
+JetPlane#J2(8): Heavy rain ahead beware of engine flameout.
+Helicopter#H4(9): Fog detected beware of surroundings.
